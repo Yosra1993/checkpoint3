@@ -1,3 +1,14 @@
+
+.background{
+
+    background: url(https://cdn2.hubspot.net/hubfs/145335/IMPACT_Framework_3/Homepage/Assets/Homepage-Hero--v3-1.jpg?t=1530867560803);
+      height: 714px;
+}
+
+
+
+
+
 div >h1{
 
     color: white;
@@ -16,3 +27,16 @@ div >h1{
 li {
     display:inline;
 }
+.image_1{
+
+    width: 118px;
+    margin-left: 123px;
+    margin-top: 20px;
+}
+
+.start_here{
+
+    margin-left: 785px;
+    color: white;
+}
+
